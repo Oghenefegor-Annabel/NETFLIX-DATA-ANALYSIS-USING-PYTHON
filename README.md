@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project explores and analyzes a Netflix dataset containing information about movies and TV shows available on the platform. The dataset includes attributes such as Show ID, Title, Type, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Genre, and Description.
+This project explores and analyzes a Netflix dataset containing information about movies and TV shows available on the platform. The dataset includes attributes such as Show ID, Title, Type, Director, Cast, Country, Date Added, Release Year, Rating, Duration, Listed in, and Description.
 
 The primary objective of this project is to perform data cleaning, exploratory data analysis (EDA), and visualization to uncover trends and insights within Netflix's content library.
 
