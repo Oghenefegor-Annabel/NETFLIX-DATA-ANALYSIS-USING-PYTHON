@@ -1,5 +1,4 @@
 # NETFLIX-DATA-ANALYSIS-USING-PYTHON
-# Netflix Data Analysis Using Python
 
 ## Project Overview
 
@@ -65,6 +64,7 @@ The dataset includes:
 * Genre frequency charts.
 * Country-wise content distribution.
 
+
 ## Key Findings
 
 * Movies constitute a larger portion of Netflix's catalog than TV Shows.
@@ -72,6 +72,8 @@ The dataset includes:
 * TV-MA is among the most common ratings.
 * The United States contributes the highest number of titles.
 * Drama and International Movies are among the most popular genres.
+
+<img width="1204" height="577" alt="image" src="https://github.com/user-attachments/assets/e7c6711b-ccde-4bd6-bed3-f1d8faa96a04" />
 
 ## How to Run
 
